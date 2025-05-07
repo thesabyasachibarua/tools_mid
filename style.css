@@ -1,4 +1,21 @@
 .logo{
-
-    border: 10px solid red;
+border: 3px solid red;
+margin: 10px;
+padding: 10px;
+width: 1300px;
+height: 96px;
+flex-shrink: 0;
+background-color: white;
 }
+.image1{
+    margin: 0px auto;
+}
+*{
+    background: var(--bgfeedbc, #FEEDBC);
+}
+
+.content{
+    display: flex;
+    border: 2px solid red;
+}
+
